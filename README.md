@@ -1,6 +1,4 @@
 # test
-test
-Team name is "Avengers"
+Admin: No one?
 
-Name = Michael McAlliter; 
-Captain =
+Users: Just me?
