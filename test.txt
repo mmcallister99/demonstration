@@ -6,3 +6,5 @@ The power of Git!
 
 
 I'm typing it from demo branch
+
+I'm typing it from atom
